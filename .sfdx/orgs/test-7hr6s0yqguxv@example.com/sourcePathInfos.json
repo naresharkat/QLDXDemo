@@ -1,0 +1,127 @@
+[
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548260792951,
+            "changeTime": 1548260792951,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548260792952,
+            "changeTime": 1548260792952,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548261392204,
+            "changeTime": 1548261392204,
+            "contentHash": "b83529a79471406ddba075a6206ed1dcab87946a"
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548260792952,
+            "changeTime": 1548260792952,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548261158935,
+            "changeTime": 1548261158935,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account\\fields\\DemoDx__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account\\fields\\DemoDx__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 363,
+            "modifiedTime": 1548261392216,
+            "changeTime": 1548261392216,
+            "contentHash": "313e138a4090683ea7606e6d5f90fcffe39c0aff"
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548261392208,
+            "changeTime": 1548261392208,
+            "contentHash": "b24200c26f188a1964a2d5fae3428b9f0c050d36"
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548261392205,
+            "changeTime": 1548261392205,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\work\\DxNewDemo\\DemoDx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548261392204,
+            "changeTime": 1548261392204,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ]
+]
